@@ -1,0 +1,5 @@
+Model,KW AUC,PCA AUC,Better
+Logistic Regression,0.542 ± 0.100,0.506 ± 0.067,KW ✓
+SVM,0.549 ± 0.095,0.476 ± 0.098,KW ✓
+Random Forest,0.434 ± 0.164,0.470 ± 0.220,PCA ✓
+XGBoost,0.491 ± 0.117,0.487 ± 0.216,KW ✓
