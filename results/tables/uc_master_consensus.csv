@@ -1,0 +1,13 @@
+Microbe,KW_LogReg,PCA_LogReg,KW_SVM,PCA_SVM,Total_Votes,LogReg_Direction
+g__Alectryocaccomicrobium,✔️,,✔️,,2,Protective (-)
+g__Aphodomonas,✔️,,✔️,,2,Protective (-)
+g__BOG-234,✔️,,✔️,,2,Protective (-)
+g__Bdellovibrio,✔️,,✔️,,2,Pathogen (+)
+g__Neofamilia,✔️,,✔️,,2,Protective (-)
+g__Psychrobacter,✔️,,✔️,,2,Pathogen (+)
+g__RUG410,✔️,,✔️,,2,Pathogen (+)
+g__UBA1783,✔️,,✔️,,2,Pathogen (+)
+g__UBA4717,✔️,,✔️,,2,Protective (-)
+g__UMGS1975,✔️,,✔️,,2,Protective (-)
+g__UMGS2016,✔️,,✔️,,2,Pathogen (+)
+g__Weissella,✔️,,✔️,,2,Protective (-)

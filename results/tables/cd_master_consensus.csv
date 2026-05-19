@@ -1,0 +1,12 @@
+Microbe,KW_LogReg,PCA_LogReg,KW_SVM,PCA_SVM,Total_Votes,LogReg_Direction
+g__UMGS856,✔️,✔️,✔️,,3,Protective (-)
+g__Butyribacter,✔️,,✔️,,2,Protective (-)
+g__CAG-115,✔️,,✔️,,2,Protective (-)
+g__CAG-353,,✔️,✔️,,2,Protective (-)
+g__CAG-390,✔️,,✔️,,2,Protective (-)
+g__Firm-04,,,✔️,✔️,2,Neutral/Non-Linear
+g__Flemingibacterium,✔️,,✔️,,2,Protective (-)
+g__Haloimpatiens,✔️,,✔️,,2,Pathogen (+)
+g__UBA4717,✔️,,✔️,,2,Protective (-)
+g__UBA5905,,,✔️,✔️,2,Neutral/Non-Linear
+g__UMGS1865,,,✔️,✔️,2,Neutral/Non-Linear

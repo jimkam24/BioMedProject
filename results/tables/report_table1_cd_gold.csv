@@ -1,0 +1,3 @@
+Biomarker (Genus),Biological Role,Validated By (KW + PCA)
+g__UBA5905,Non-Linear,SVM
+g__UMGS856,Protective (-),Logistic Regression
