@@ -1,0 +1,4 @@
+Model Configuration,Auc,Accuracy,F1-Score,Precision,Recall
+CD_PCA_SVM (Microbiome Only),0.663 ± 0.145,0.578 ± 0.155,0.624 ± 0.178,0.715 ± 0.166,0.584 ± 0.226
+CD_PCA_SVM_+Age,0.664 ± 0.144,0.578 ± 0.155,0.624 ± 0.178,0.715 ± 0.166,0.584 ± 0.226
+Net Change (Δ Mean),+0.001,+0.000,+0.000,+0.000,+0.000

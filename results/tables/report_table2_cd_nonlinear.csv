@@ -1,0 +1,31 @@
+Biomarker (Genus),Biological Role,SVM Feature Space
+g__Angelakisella,Complex / Non-Linear,PCA
+g__CAG-170,Complex / Non-Linear,PCA
+g__CAG-791,Complex / Non-Linear,PCA
+g__Domibacillus,Complex / Non-Linear,KW
+g__F23-B02,Complex / Non-Linear,PCA
+g__Faecousia,Complex / Non-Linear,PCA
+g__Fimivivens,Complex / Non-Linear,PCA
+g__Firm-04,Complex / Non-Linear,PCA
+g__Granulicatella,Complex / Non-Linear,KW
+g__JABMQB01,Complex / Non-Linear,PCA
+g__Lancefieldella,Complex / Non-Linear,KW
+g__Limiplasma,Complex / Non-Linear,PCA
+g__Limivivens,Complex / Non-Linear,PCA
+g__Merdisoma,Complex / Non-Linear,PCA
+g__NBML01,Complex / Non-Linear,KW
+g__Onthomonas,Complex / Non-Linear,PCA
+g__Oxalobacter,Complex / Non-Linear,PCA
+g__Paenibacillus_J,Complex / Non-Linear,PCA
+g__Parashewanella,Complex / Non-Linear,KW
+g__Pygmaiobacter,Complex / Non-Linear,KW
+g__SFEL01,Complex / Non-Linear,PCA
+g__Scatomorpha,Complex / Non-Linear,PCA
+g__Thalassotalea_A,Complex / Non-Linear,PCA
+g__UBA10281,Complex / Non-Linear,KW
+g__UBA5216,Complex / Non-Linear,KW
+g__UBA5905,Complex / Non-Linear,KW & PCA
+g__UBA737,Complex / Non-Linear,PCA
+g__UBA738,Complex / Non-Linear,PCA
+g__UBA8612,Complex / Non-Linear,KW
+g__UMGS1865,Complex / Non-Linear,KW
